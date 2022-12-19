@@ -1,0 +1,11 @@
+ul li{
+    list-style-type: none;
+}
+
+.ligne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: aquamarine;
+    border: 1px solid white;
+}
